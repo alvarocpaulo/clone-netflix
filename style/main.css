@@ -82,3 +82,11 @@ main .filme-principal .titulo{
 .botao i{
     margin-top: 8px;
 }
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
