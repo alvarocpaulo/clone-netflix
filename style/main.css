@@ -34,8 +34,28 @@ header nav a:hover{
     color: #ffffff;
 }
 
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50)), url(/img/img-capa.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 40px;
+}
+
+.titulo{
+    font-size: 40px;
+}
+
 body{
     background: var(--preto);
-    font-family: Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
 }
 
