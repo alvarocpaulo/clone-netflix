@@ -96,3 +96,7 @@ main .filme-principal .titulo{
     width: 100%;
     display: block;
 }
+
+.carousel-filmes{
+    margin-top: 5px;
+}
